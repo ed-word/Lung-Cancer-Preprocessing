@@ -7,4 +7,4 @@ Cancer Classification from Lung Scans (Dicom files)
 
 
 
-![figure_1](https://cloud.githubusercontent.com/assets/16800960/23913996/9f92d344-090a-11e7-84dd-c301e6652936.png)
+![figure_1-1](https://cloud.githubusercontent.com/assets/16800960/23914146/151ce85c-090b-11e7-92e3-82f9743d6a38.png)
