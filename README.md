@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection
+# Lung-Cancer-CT scans
 Preprocessing for problem
 
 
